@@ -20,11 +20,13 @@
 
 # figure_4_5_for_github 
 
+# is a matlab script which recreates figures 4 and 5 from the paper by stepping the levels N = 2, 3, 4 systems of 3 ODEs.
+# The body of the script is written for any level N (for L(0,N), that is).
 
 # figure_6_for_github
 
 # is a matlab script which recreates figure 6 from the paper by stepping the level 4 systems of 3 ODEs. 
-# The script is written for any level N (for L(0,N)), that is.
+# The body of the script is written for any level N (for L(0,N), that is).
 
 
 
