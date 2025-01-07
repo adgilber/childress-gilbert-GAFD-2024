@@ -5,7 +5,7 @@
 # Axial flow in an eroding Euler hairpin in R^3: does it prevent blow-up
 
 # by Stephen Childress and Andrew D Gilbert
-# Geophysical and Astrophysical Fluid Dynamics 2024
+# Geophysical and Astrophysical Fluid Dynamics 2025
 
 # Scripts for other figures are available on any reasonable request to the authors
 
